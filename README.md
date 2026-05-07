@@ -1,6 +1,6 @@
 # Make Skills for AI Coding Agents
 
-Give your AI coding agent deep Make expertise — for building workflow automation and Make AI Agents. Works with Claude Code, Cursor, GitHub Copilot, Windsurf, Cline, Codex, and [40+ other agents](https://skills.sh) via the [Open Agent Skills](https://skills.sh) protocol.
+Give your AI coding agent deep Make expertise — for building workflow automation and Make AI Agents. Works with Claude Code and Codex via dedicated plugins, and with Cursor, GitHub Copilot, Windsurf, Cline, and [40+ other agents](https://skills.sh) via the [Open Agent Skills](https://skills.sh) protocol.
 
 > **Recommended:** The Claude Code plugin gives the best experience — skills and MCP server load automatically, with no manual setup.
 
